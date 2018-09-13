@@ -9,7 +9,7 @@ body {
 }
 
 #bookshelf {
-  width: 200vw;
+  width: 200%;
   display: flex;
 }
 
